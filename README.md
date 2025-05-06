@@ -28,3 +28,4 @@
 - PCA한 feature들로 6개의 군집 생성, 그 중 대표 사진을 고르면 해당 군집에 해당하는 다른 이미지 추천
 
 ## Web Page
+- HTML, Javascript, CSS 사용
